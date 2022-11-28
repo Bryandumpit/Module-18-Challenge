@@ -26,7 +26,7 @@ SO THAT my website can handle large amounts of unstructured data
 [Walkthrough Video: Server Start and User Routes](https://drive.google.com/file/d/1EcgA-YrN7iZRssThVEHOx-EsUd7awu2_/view)<br>
 [Walkthrough Video: Thought Routes](https://drive.google.com/file/d/1bOgVyzvqTtho3-QWKnZstnHbq1QOwV0i/view)<br>
 
-![Insomnia Screenshot](../Social-Network-API/assets/socialnetworkapiinsomnia.PNG)
+![Insomnia Screenshot](/assets/socialnetworkapiinsomnia.PNG)
 
 ## Contibution
 
