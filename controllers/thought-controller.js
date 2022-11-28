@@ -38,7 +38,7 @@ const thoughtController = {
             });
     },
     //CREATE thought
-    createThought (body, res) {
+    createThought ({ params, body}, res) {
         Thought.create(body)
             .then(({_id})=>{
                 return User.findOneAndUpdate(
